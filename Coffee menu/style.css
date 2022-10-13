@@ -1,0 +1,21 @@
+body{
+    width: 500px;
+    color: #000000;
+    background-color: #00ffff;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.coffee-container{
+    text-align: justify;
+    background-color: #dc143c;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+h3{
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin: 4px;
+    padding: 5px 10px;
+    text-align: center;
+}
