@@ -13,6 +13,9 @@ body{
     justify-content: space-between;
     padding: 20px 30px;
 }
+h1{
+    color: #ffffff;
+}
 h3{
     background-color: #ffffff;
     border-radius: 5px;
